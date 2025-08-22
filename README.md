@@ -4,19 +4,19 @@ This repository contains the code, configuration, and documentation for a daily 
 
 ## Table of Contents
 
-  - [Overview]
-  - [Architecture Diagram]
-  - [Medallion Architecture]
-      - [Bronze Layer: Raw Data Ingestion]
-      - [Silver Layer: Cleaned & Conformed Data]
-      - [Gold Layer: Aggregated Business Metrics]
-  - [Data Source]
-  - [Technology Stack]
-  - [Project Structure]
-  - [Setup and Deployment]
-  - [Orchestration and Scheduling]
-  - [Data Quality, Error Handling, and Alerting]
-  - [How to Contribute]
+  - [Overview](https://github.com/Kathulahareesh/E-COMMERCE_SALES_ANALYTICS_PIPELINE/tree/main#overview)
+  - [Architecture Diagram](https://github.com/Kathulahareesh/E-COMMERCE_SALES_ANALYTICS_PIPELINE/tree/main#architecture-diagram)
+  - [Medallion Architecture](https://github.com/Kathulahareesh/E-COMMERCE_SALES_ANALYTICS_PIPELINE/tree/main#medallion-architecture)
+      - [Bronze Layer: Raw Data Ingestion](https://github.com/Kathulahareesh/E-COMMERCE_SALES_ANALYTICS_PIPELINE/tree/main#bronze-layer-raw-data-ingestion)
+      - [Silver Layer: Cleaned & Conformed Data](https://github.com/Kathulahareesh/E-COMMERCE_SALES_ANALYTICS_PIPELINE/tree/main#silver-layer-cleaned--conformed-data)
+      - [Gold Layer: Aggregated Business Metrics](https://github.com/Kathulahareesh/E-COMMERCE_SALES_ANALYTICS_PIPELINE/tree/main#gold-layer-aggregated-business-metrics)
+  - [Data Source](https://github.com/Kathulahareesh/E-COMMERCE_SALES_ANALYTICS_PIPELINE/tree/main#data-source)
+  - [Technology Stack](https://github.com/Kathulahareesh/E-COMMERCE_SALES_ANALYTICS_PIPELINE/tree/main#technology-stack)
+  - [Project Structure](https://github.com/Kathulahareesh/E-COMMERCE_SALES_ANALYTICS_PIPELINE/tree/main#project-structure)
+  - [Setup and Deployment](https://github.com/Kathulahareesh/E-COMMERCE_SALES_ANALYTICS_PIPELINE/tree/main#setup-and-deployment)
+  - [Orchestration and Scheduling](https://github.com/Kathulahareesh/E-COMMERCE_SALES_ANALYTICS_PIPELINE/tree/main#orchestration-and-scheduling)
+  - [Data Quality, Error Handling, and Alerting](https://github.com/Kathulahareesh/E-COMMERCE_SALES_ANALYTICS_PIPELINE/tree/main#data-quality-error-handling-and-alerting)
+  - [How to Contribute](https://github.com/Kathulahareesh/E-COMMERCE_SALES_ANALYTICS_PIPELINE/tree/main#how-to-contribute)
 
 ## Overview
 

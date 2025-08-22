@@ -4,19 +4,19 @@ This repository contains the code, configuration, and documentation for a daily 
 
 ## Table of Contents
 
-  - [Overview](https://www.google.com/search?q=%23overview)
-  - [Architecture Diagram](https://www.google.com/search?q=%23architecture-diagram)
-  - [Medallion Architecture](https://www.google.com/search?q=%23medallion-architecture)
-      - [Bronze Layer: Raw Data Ingestion](https://www.google.com/search?q=%23bronze-layer-raw-data-ingestion)
-      - [Silver Layer: Cleaned & Conformed Data](https://www.google.com/search?q=%23silver-layer-cleaned--conformed-data)
-      - [Gold Layer: Aggregated Business Metrics](https://www.google.com/search?q=%23gold-layer-aggregated-business-metrics)
-  - [Data Source](https://www.google.com/search?q=%23data-source)
-  - [Technology Stack](https://www.google.com/search?q=%23technology-stack)
-  - [Project Structure](https://www.google.com/search?q=%23project-structure)
-  - [Setup and Deployment](https://www.google.com/search?q=%23setup-and-deployment)
-  - [Orchestration and Scheduling](https://www.google.com/search?q=%23orchestration-and-scheduling)
-  - [Data Quality, Error Handling, and Alerting](https://www.google.com/search?q=%23data-quality-error-handling-and-alerting)
-  - [How to Contribute](https://www.google.com/search?q=%23how-to-contribute)
+  - [Overview]
+  - [Architecture Diagram]
+  - [Medallion Architecture]
+      - [Bronze Layer: Raw Data Ingestion]
+      - [Silver Layer: Cleaned & Conformed Data]
+      - [Gold Layer: Aggregated Business Metrics]
+  - [Data Source]
+  - [Technology Stack]
+  - [Project Structure]
+  - [Setup and Deployment]
+  - [Orchestration and Scheduling]
+  - [Data Quality, Error Handling, and Alerting]
+  - [How to Contribute]
 
 ## Overview
 

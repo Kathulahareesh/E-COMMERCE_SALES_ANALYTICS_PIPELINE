@@ -108,27 +108,20 @@ The Gold layer contains business-level aggregations and KPIs optimized for analy
 
 ```
 .
-├── notebooks/
-│   ├── 01-Bronze-Ingestion.py
-│   ├── 02-Silver-Transformation.py
-│   └── 03-Gold-Aggregation.py
-├── src/
-│   ├── transformations.py
-│   └── utils.py
+├── project/
+│   ├── Bronze-Ingestion.ipynb
+│   ├── Silver-Transformation.ipynb
+│   └── Gold-Aggregation.ipynb
 ├── tests/
 │   ├── test_transformations.py
 │   └── conftest.py
-├── conf/
-│   ├── pipeline_config.yml
-│   └── schemas.json
+├── document.pptx
 ├── .gitignore
 └── README.md
 ```
 
-  * **notebooks/:** Contains the Databricks notebooks that define the ETL steps for each layer.
-  * **src/:** Reusable Python modules for transformations, utilities, and helper functions.
-  * **tests/:** Unit tests for the functions defined in `src/`.
-  * **conf/:** Configuration files for table names, schemas, paths, and environment-specific settings.
+  * **project/:** Contains the Databricks notebooks that define the ETL steps for each layer.
+  * **tests/:** Unit tests for the functions defined in `project/`.
 
 ## Setup and Deployment
 
